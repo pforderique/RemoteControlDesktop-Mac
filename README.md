@@ -1,4 +1,4 @@
-# Remote Control Desktop
+# Remote Control Desktop Mac
 
 ## About
 
